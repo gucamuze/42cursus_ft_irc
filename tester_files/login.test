@@ -1,0 +1,20 @@
+# YOU CAN COMMENT LIKE THIS: THE PARSER WILL IGNORE EACH LINE STARTING WITH A #
+
+# nick too long
+PASS wegwef
+NICK logintoolong
+
+# invalid char in nick
+PASS wegwef
+NICK name$l
+
+# invalid USER command
+PASS $PASSWORD
+NICK invalid
+USER $USERNAME 0
+
+# valid login
+PASS $PASSWORD
+NICK $NICK
+USER $NICK $USERNAME 0 :$FULLNAME
+

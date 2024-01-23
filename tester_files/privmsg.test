@@ -1,0 +1,12 @@
+JOIN #testchan
+PRIVMSG
+PRIVMSG #testchan
+PRIVMSG #testchan :
+PRIVMSG #testchan :coucou
+PRIVMSG jexistepas
+PRIVMSG jexistepas :
+PRIVMSG jexistepas :test
+PRIVMSG #test trop d'arguments
+PRIVMSG #test :spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time spam time
+
+
